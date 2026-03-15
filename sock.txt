@@ -1,0 +1,4 @@
+// Funcion socket
+funcion socket:
+   print("funcion socket")
+   
