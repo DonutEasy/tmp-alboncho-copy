@@ -1,12 +1,5 @@
 alboncho
-alex
-emma
 
-alicia
-pedrito
+v2.0
 
-cobox
-conan
-box
-
-perrito
+const name = parseInt(prompt());
